@@ -160,7 +160,7 @@
     });
 
 
-    jQuery(window).on("load",function(){
+    jQuery(window).load(function(){
         jQuery(".loader").fadeOut(1000);
     });
 
