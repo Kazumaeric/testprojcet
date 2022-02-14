@@ -525,34 +525,7 @@
 		transform: scale(1.2,1.2) rotate(5deg);
 }
 
-.section-products #product-1 .part-1 .product01::before {
-    background: url("https://dummyimage.com/640x427/fff/aaa") no-repeat center;
-    background-size: cover;
-	transition: all 0.3s;
-}
-.section-products #product-1 .part-1 .product02::before {
-    background: url("https://dummyimage.com/640x427/fff/aaa") no-repeat center;
-    background-size: cover;
-	transition: all 0.3s;
-}
-.section-products #product-1 .part-1 .product03::before {
-    background: url("https://dummyimage.com/640x427/fff/aaa") no-repeat center;
-    background-size: cover;
-	transition: all 0.3s;
-}
-.section-products #product-1 .part-1 .product04::before {
-    background: url("https://dummyimage.com/640x427/fff/aaa") no-repeat center;
-    background-size: cover;
-	transition: all 0.3s;
-}
-.section-products #product-1 .part-1 .product05::before {
-    background: url("https://dummyimage.com/640x427/fff/aaa") no-repeat center;
-    background-size: cover;
-	transition: all 0.3s;
-}
-.section-products #product-1 .part-1 .product06::before {
-    background: url("https://dummyimage.com/640x427/fff/aaa") no-repeat center;
-    background-size: cover;
+.section-products #product-1 .part-1::before {
 	transition: all 0.3s;
 }
 
