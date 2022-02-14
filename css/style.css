@@ -502,7 +502,7 @@
     margin-bottom: 26px;
 }
 
-.section-products .single-product .part-1 {
+.section-products .single-product .part-1 img {
     position: relative;
     height: 290px;
     max-height: 290px;
@@ -521,13 +521,11 @@
 		transition: all 0.3s;
 }
 
-.section-products .single-product img:hover .part-1::before {
+.section-products .single-product .part-1 img:hover {
 		transform: scale(1.2,1.2) rotate(5deg);
+		transition: all 0.3s;
 }
 
-.section-products #product-1 .part-1::before {
-	transition: all 0.3s;
-}
 
 /* .section-products #product-2 .part-1::before {
     background: url("http://via.placeholder.com/640x427") no-repeat center;
