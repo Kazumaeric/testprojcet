@@ -502,7 +502,7 @@
     margin-bottom: 26px;
 }
 
-.section-products .single-product .part-1 img {
+.section-products .single-product .part-1 {
     position: relative;
     height: 290px;
     max-height: 290px;
